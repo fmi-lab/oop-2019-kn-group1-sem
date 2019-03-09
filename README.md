@@ -7,3 +7,5 @@
 [Конструктори](https://github.com/Scorpion333/fmi-textbook/blob/master/Конструктори.md)
 
 [Оператори](https://github.com/Scorpion333/fmi-textbook/blob/master/Оператори.md)
+
+[Константи, референции, указатели](https://github.com/Scorpion333/fmi-textbook/tree/master/Константи%2C%20референции%2C%20указатели)
