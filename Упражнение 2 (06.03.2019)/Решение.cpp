@@ -147,6 +147,13 @@ public:
     }
 
     void add_product(Product _product) {
+        for(int i = 0; i < number_of_products; i++) {
+            if(strcmp(products[i].get_name(), _product.get_name())) {
+                int updated_quantity = products[i].get_quantity() + _product.get_quantity();
+                products[i].set_quantity(updated_quantity);
+                return;
+            }
+        }
         products[number_of_products] = _product;
         number_of_products++;
     }
