@@ -15,3 +15,5 @@
 [Константи, референции, указатели](https://github.com/Scorpion333/fmi-textbook/tree/master/Константи%2C%20референции%2C%20указатели)
 
 [Динамични масиви](https://github.com/Scorpion333/fmi-textbook/blob/master/Динамични%20масиви)
+
+[Enum](https://github.com/Scorpion333/fmi-textbook/blob/master/Enum.md )
